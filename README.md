@@ -6,8 +6,8 @@ epithelial cells to motile mesenchymal cells required for tissue
 Morphological plasticity is critical to organism development as
 exemplified by the reversible conversion of embryonic non-migratory
 epithelial cells to motile mesenchymal cells required for tissue
-positioning and organization1. The size of the shape space a cell has the
-potential to explore reflects its morphological plasticity2. Highly plastic
+positioning and organization. The size of the shape space a cell has the
+potential to explore reflects its morphological plasticity. Highly plastic
 cells explore large regions of shape space when compared with cells
 with stable morphologies. In adult organisms, the shape space available
 to most differentiated cells is relatively limited, serving to enforce tissue
