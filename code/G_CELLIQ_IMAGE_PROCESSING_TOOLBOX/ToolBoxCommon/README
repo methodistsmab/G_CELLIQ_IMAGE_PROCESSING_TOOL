@@ -1,0 +1,22 @@
+Some matlab code to do shading correction by subtracting a spline surface 
+which is iteratively fitted to the background using least squares.
+
+The algorithm is published in
+
+J. Lindblad and E. Bengtsson. 
+'A comparison of methods for estimation of intensity nonuniformities in
+2D and 3D microscope images of fluorescence stained cells.',
+In Proceedings of the 12th Scandinavian Conference on Image Analysis
+(SCIA), pages 264-271, Bergen, Norway, June 2001. 
+
+
+Usage example:
+    bg_compensate('img.tif','kde');
+    bg_compensate('img.tif',1.7);
+
+Iterative backgournd selecting code is in backgr.m
+KDE backgournd selecting code is in kdebackgr.m
+
+Spline code is in splinefit* and evalspline*
+
+Copyright 2001-2002 Joakim Lindblad
