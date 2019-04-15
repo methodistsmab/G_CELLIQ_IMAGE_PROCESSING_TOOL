@@ -1,6 +1,11 @@
 # G_CELLIQ_IMAGE_PROCESSING_TOOL
 
-
+Morphological plasticity is critical to organism development - as
+exemplified by the reversible conversion of embryonic non-migratory
+epithelial cells to motile mesenchymal cells required for tissue
+Morphological plasticity is critical to organism developmentas
+exemplified by the reversible conversion of embryonic non-migratory
+epithelial cells to motile mesenchymal cells required for tissue
 positioning and organization1. The size of the shape space a cell has the
 potential to explore reflects its morphological plasticity2. Highly plastic
 cells explore large regions of shape space when compared with cells
@@ -21,6 +26,13 @@ determined whether cells have discrete shapes or whether shape is a continuous v
 to the exploration of shape space in Kc cells, as well as those that regulate
 the topology of shape space itself. Finally we isolated a conserved gene
 network that regulates contractility and protrusion in Drosophila as
+well as mouse and human melanoma cells. This demonstrates that the
+analysis of morphological complexity provides new insights into the
+signalling networks regulating cell shape.
+well as mouse and human melanoma cells. This demonstrates that the
+analysis of morphological complexity provides new insights into the
+signalling networks regulating cell shape.
+
 
 ## Please cite the following paper when you use the tool in your paper.
 
