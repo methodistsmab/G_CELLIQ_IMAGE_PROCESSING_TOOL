@@ -3,7 +3,7 @@
 Morphological plasticity is critical to organism development - as
 exemplified by the reversible conversion of embryonic non-migratory
 epithelial cells to motile mesenchymal cells required for tissue
-Morphological plasticity is critical to organism developmentas
+Morphological plasticity is critical to organism development as
 exemplified by the reversible conversion of embryonic non-migratory
 epithelial cells to motile mesenchymal cells required for tissue
 positioning and organization1. The size of the shape space a cell has the
