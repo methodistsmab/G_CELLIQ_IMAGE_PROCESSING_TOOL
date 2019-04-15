@@ -28,7 +28,7 @@ network that regulates contractility and protrusion in Drosophila as
 Zheng Yin, Amine Sadok, Heba Sailem, Afshan McCarthy, Xiaofeng Xia, Fuhai Li, Mar Arias Garcia, Louise Evans, Alexis R. Barr, Norbert Perrimon, Christopher J. Marshall, Stephen T. C. Wong & Chris Bakal , Nature Cell Biology 15, 860-871 (2013)
 
 
-[![Alt text](https://raw.githubusercontent.com/methodistsmab/G_CELLIQ_IMAGE_PROCESSING_TOOL/master/images/algorith.png)]
+[![Alt text](https://raw.githubusercontent.com/methodistsmab/G_CELLIQ_IMAGE_PROCESSING_TOOL/master/images/algorithm.jpg)]
 
 
 
