@@ -36,9 +36,8 @@ signalling networks regulating cell shape.
 
 ## Please cite the following paper when you use the tool in your paper.
 
->A screen for morphological complexity identifies regulators of switch-like transitions between discrete cell shapes
+>[A screen for morphological complexity identifies regulators of switch-like transitions between discrete cell shapes](https://www.nature.com/articles/ncb2764)
 Zheng Yin, Amine Sadok, Heba Sailem, Afshan McCarthy, Xiaofeng Xia, Fuhai Li, Mar Arias Garcia, Louise Evans, Alexis R. Barr, Norbert Perrimon, Christopher J. Marshall, Stephen T. C. Wong & Chris Bakal , Nature Cell Biology 15, 860-871 (2013)
-
 
 ![Alt text](https://raw.githubusercontent.com/methodistsmab/G_CELLIQ_IMAGE_PROCESSING_TOOL/master/images/algorithm.jpg)
 
