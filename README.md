@@ -34,7 +34,7 @@ analysis of morphological complexity provides new insights into the
 signalling networks regulating cell shape.
 
 
-## Please cite the following paper when you use the tool in your paper.
+## Please cite our paper when you use the tool in your paper.
 
 >[A screen for morphological complexity identifies regulators of switch-like transitions between discrete cell shapes](https://www.nature.com/articles/ncb2764)
 Zheng Yin, Amine Sadok, Heba Sailem, Afshan McCarthy, Xiaofeng Xia, Fuhai Li, Mar Arias Garcia, Louise Evans, Alexis R. Barr, Norbert Perrimon, Christopher J. Marshall, Stephen T. C. Wong & Chris Bakal , Nature Cell Biology 15, 860-871 (2013)
