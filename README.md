@@ -46,7 +46,7 @@ Zheng Yin, Amine Sadok, Heba Sailem, Afshan McCarthy, Xiaofeng Xia, Fuhai Li, Ma
 
 # How to use this tool
 
-'''
+```
 Go to code\G_CELLIQ_IMAGE_PROCESSING_TOOLBOX folder. 
 
 Run Demo.m with Matlab
@@ -54,7 +54,7 @@ Run Demo.m with Matlab
 The input cell images are in the Input folder.
 
 The results will be generated in Output folder. 
-'''
+```
 
 # Synapse Wiki
 
