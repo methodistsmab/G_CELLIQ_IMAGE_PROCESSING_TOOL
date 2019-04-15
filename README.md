@@ -44,12 +44,12 @@ Zheng Yin, Amine Sadok, Heba Sailem, Afshan McCarthy, Xiaofeng Xia, Fuhai Li, Ma
 
 
 
-# User Guide
+# How to use this tool
 
->https://github.com/methodistsmab/CCCExplorer/blob/master/CCCExplorer_user_guide_v1.pdf
-
-
-
+>Go to code\G_CELLIQ_IMAGE_PROCESSING_TOOLBOX folder. 
+>Run Demo.m with Matlab
+>The input cell images are in the Input folder.
+>The results will be generated in Output folder. 
 
 # Synapse Wiki
 
