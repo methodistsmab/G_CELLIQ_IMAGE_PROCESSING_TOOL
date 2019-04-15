@@ -57,7 +57,7 @@ The results will be generated in Output folder.
 
 # Synapse Wiki
 
->Comming soon...
+>https://www.synapse.org/#!Synapse:syn18501448
 
 # Contact
 
