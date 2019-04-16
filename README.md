@@ -1,4 +1,4 @@
-# G_CELLIQ_IMAGE_PROCESSING_TOOL
+# G CELLIQ IMAGE PROCESSING TOOL
 
 Morphological plasticity is critical to organism development - as
 exemplified by the reversible conversion of embryonic non-migratory
